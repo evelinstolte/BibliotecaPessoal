@@ -108,7 +108,7 @@ public class TelaPrincipal extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-     ManutencaoLivro janela = new ManutencaoLivro(this, true);
+     DialogLivro janela = new DialogLivro(this, true);
 janela.setVisible(true);   // TODO add your handling code here:
     }//GEN-LAST:event_jButton1ActionPerformed
 
